@@ -8,3 +8,4 @@
 /testing-demo
 
 [... rest of gitignore content ...]
+node_modules/

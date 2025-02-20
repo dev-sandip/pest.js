@@ -1,0 +1,40 @@
+{
+  "name": "pest-js",
+  "version": "1.0.0",
+  "description": "PEST.js - Progressive Express Starter with TypeScript. A modern, feature-based Node.js project generator",
+  "main": "index.js",
+  "bin": {
+    "pest-js": "./bin/cli.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-sandip/pest.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pest",
+    "pest-js",
+    "express",
+    "typescript",
+    "mongoose",
+    "nodejs",
+    "api",
+    "boilerplate",
+    "generator",
+    "starter"
+  ],
+  "author": "Nabin Khair, Sandip Sapkota",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "execa": "^9.5.2",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.12",
+    "ora": "^7.0.1"
+  }
+}
