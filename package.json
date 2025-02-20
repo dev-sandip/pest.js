@@ -1,5 +1,5 @@
 {
-  "name": "pest-js",
+  "name": "@dev-sandip/pest-js",
   "version": "1.0.0",
   "description": "PEST.js - Progressive Express Starter with TypeScript. A modern, feature-based Node.js project generator",
   "main": "index.js",
